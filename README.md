@@ -26,7 +26,7 @@ REST API untuk manajemen restoran menggunakan FastAPI dan SQLite.
 1. Clone repository:
 
 ```bash
-git clone [LINK REPOSITORY]
+git clone [https://github.com/231220076-creator/UTS_Restaurant_API.git]
 ```
 
 2. Masuk ke folder proyek:
