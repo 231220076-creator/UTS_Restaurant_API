@@ -1,0 +1,6 @@
+venv/
+venv_locust/
+__pycache__/
+*.pyc
+*.db
+.env
