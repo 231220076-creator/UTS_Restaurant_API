@@ -1,5 +1,9 @@
 LINK VIDEO YOUTUBE (UNLISTED): [MASUKKAN LINK VIDEO DI SINI]
 
+## Laporan UTS
+Laporan lengkap proyek dapat dilihat di:
+[Download Laporan UTS (PDF)](docs/laporan_uts.pdf)
+
 # Restaurant Management API
 
 REST API untuk manajemen restoran menggunakan FastAPI dan SQLite.
