@@ -92,3 +92,35 @@ locust -f locustfile.py
 Buka:
 
 http://localhost:8089
+
+## Pengujian Locust Menggunakan Windows dengan WSL Ubuntu
+
+Locust digunakan untuk melakukan pengujian beban (load testing) pada API.
+
+Jika menggunakan Windows dengan WSL Ubuntu:
+
+1. Buka terminal Ubuntu (WSL).
+2. Masuk ke folder proyek:
+
+```bash
+cd /mnt/d/UTS_Restaurant_API
+```
+
+3. Aktifkan virtual environment Locust:
+
+```bash
+source ~/locust-env/bin/activate
+```
+
+4. Jalankan Locust:
+
+```bash
+locust -f locustfile.py --host http://172.29.48.1:8000
+```
+
+5. Buka browser:
+
+http://localhost:8089
+
+Pastikan server FastAPI sudah berjalan terlebih dahulu di terminal lain.
+Catatan: Alamat 172.29.48.1 berlaku untuk konfigurasi WSL kamu saat ini. Pengguna lain perlu menyesuaikan alamat host API-nya.
