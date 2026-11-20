@@ -1,4 +1,4 @@
-LINK VIDEO YOUTUBE (UNLISTED): [MASUKKAN LINK VIDEO DI SINI]
+LINK VIDEO YOUTUBE (UNLISTED): [https://youtu.be/tLn50-noU6A]
 
 ## Laporan UTS
 Laporan lengkap proyek dapat dilihat di:
